@@ -1,0 +1,36 @@
+﻿<Window x:Class="Salo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Salo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <FlowDocumentReader>
+            <FlowDocument>
+                <Paragraph FontSize="25">
+                    <Run>Сало для Украiiнцiв</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Figure Width="100" Height="70" Padding="5" HorizontalAnchor="ColumnRight" >
+                        <Paragraph>
+                            <InlineUIContainer>
+                                <Image Source="Image/Salo.jpg">
+                                </Image>
+                            </InlineUIContainer>
+                        </Paragraph>
+                    </Figure>
+                    <Run>У прямій залежності від власних кулінарних вподобань багато європейських народів отримали свої жартівливі прізвиська: французи - «жабоїди», італійці – «макаронники», німці – «сосисочники», українці – «салоїди».  Це зовсім не образливо, бо їжа є невід’ємною складовою кожної культури.</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run>Для України сало є не лише одним із символів національної кухні, але й своєрідним способом життя.  Сало – герой багатьох прислів’їв* та анекдотів. Сало – поширене українське прізвище. Сало – навіть діюча особа п’єси Леся Подерв’янського «Остановісь, мгновєньє, ти прєкрасно!»</Run>
+                </Paragraph>
+                <Paragraph>
+                    Матерiал взято з
+                    <Hyperlink>http://toursdekiev.com.ua/uk/pro-salo</Hyperlink>
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Window>

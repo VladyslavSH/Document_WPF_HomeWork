@@ -1,0 +1,13 @@
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\bin\Debug\Salo.exe.config
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\bin\Debug\Salo.exe
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\bin\Debug\Salo.pdb
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\MainWindow.g.cs
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\App.g.cs
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo_MarkupCompile.cache
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo_MarkupCompile.lref
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\MainWindow.baml
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo.g.resources
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo.Properties.Resources.resources
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo.exe
+C:\Users\PKO\Desktop\Git\Document_WPF_HomeWork\Salo\Salo\obj\Debug\Salo.pdb
