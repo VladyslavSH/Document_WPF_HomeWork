@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="540">
     <Grid>
         <FlowDocumentScrollViewer>
             <FlowDocument>
@@ -18,9 +18,9 @@
                     <Span FontSize="140">WPF</Span>
                 </Paragraph>
                 <Paragraph>
-                    <Run>
-                        WPF employs XAML, an XML-based language, to define and link various interface elements.[1] WPF applications can be deployed as standalone desktop programs or hosted as an embedded object in a website.
-                    </Run>
+                    <Span>
+                        <Bold>WPF employs XAML</Bold> an XML-based language, to define and link various interface elements.[1] WPF applications can be deployed as standalone desktop programs or hosted as an embedded object in a website.
+                    </Span>
                 </Paragraph>
                 <List MarkerStyle="Disc">
                     <ListItem>
@@ -45,6 +45,72 @@
                         </Paragraph>
                     </ListItem>
                 </List>
+                <Table>
+                    <TableRowGroup>
+                        <TableRow Background="LightGray">
+                            <TableCell>
+                                <Paragraph>
+                                    <Run></Run>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>
+                                    <Bold>
+                                    <Run>WinForms</Run>
+                                    </Bold>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>
+                                    <Bold>
+                                        <Run>WPF</Run>
+                                    </Bold>
+                                </Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow Background="LightGray">
+                            <TableCell>
+                                <Paragraph>
+                                    <Bold>
+                                        <Run>Lines of code</Run>
+                                    </Bold>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph Background="White">
+                                    <Run>1.718.000</Run>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph Background="White">
+                                    <Run>1.542.000</Run>
+                                </Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow Background="LightGray">
+                            <TableCell>
+                                <Paragraph>
+                                    <Bold>
+                                        <Run>Developers</Run>
+                                    </Bold>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph Background="White">
+                                    <Run>633.000</Run>
+                                </Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph Background="White">
+                                    <Run>981.000</Run>
+                                </Paragraph>
+                            </TableCell>
+                        </TableRow>
+                    </TableRowGroup>
+                </Table>
+                <Paragraph Foreground="LightGray">
+                    <Run>Special for Anatoliy</Run>
+                </Paragraph>
             </FlowDocument>
         </FlowDocumentScrollViewer>
     </Grid>
