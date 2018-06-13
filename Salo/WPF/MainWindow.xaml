@@ -1,0 +1,51 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <FlowDocumentScrollViewer>
+            <FlowDocument>
+                <Paragraph>
+                    <Figure Width="130" HorizontalAnchor="ColumnLeft" >
+                        <Paragraph>
+                            <Image Source="Image/WPF.png"></Image>
+                        </Paragraph>
+                    </Figure>
+                    <Span FontSize="140">WPF</Span>
+                </Paragraph>
+                <Paragraph>
+                    <Run>
+                        WPF employs XAML, an XML-based language, to define and link various interface elements.[1] WPF applications can be deployed as standalone desktop programs or hosted as an embedded object in a website.
+                    </Run>
+                </Paragraph>
+                <List MarkerStyle="Disc">
+                    <ListItem>
+                        <Paragraph>
+                            <Run>
+                                WPF provides shape primitives for 2D graphics along with a built-in set of brushes, pens, geometries, and transforms.
+                            </Run>
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>
+                            <Run>
+                                There is support for most common image formats: BMP, JPEG, PNG, TIFF, Windows Media Photo, GIF, and ICON.
+                            </Run>
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>
+                            <Run>
+                                Any WPF element property can be animated as long as it is registered as a dependency property.
+                            </Run>
+                        </Paragraph>
+                    </ListItem>
+                </List>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </Grid>
+</Window>

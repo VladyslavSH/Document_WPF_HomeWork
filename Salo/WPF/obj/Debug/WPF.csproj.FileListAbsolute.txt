@@ -1,0 +1,14 @@
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\bin\Debug\WPF.exe.config
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\bin\Debug\WPF.exe
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\bin\Debug\WPF.pdb
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\App.g.cs
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\MainWindow.baml
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.g.resources
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.exe
+C:\Users\MAK\Desktop\Git\Document_WPF_HomeWork\Salo\WPF\obj\Debug\WPF.pdb
